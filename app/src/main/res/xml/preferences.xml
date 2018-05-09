@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="Adblock Enable"
+        android:defaultValue="true"
+        android:summary="This will block ads on websites."
+        android:key="ADBLOCK" />
+
+    <Preference
+        android:title="Choose Directory"
+        android:icon="@drawable/ic_folder_black_48dp"
+        android:summary="Choose path directory that you want to save your files"
+        android:key="path"></Preference>
+
+</PreferenceScreen>

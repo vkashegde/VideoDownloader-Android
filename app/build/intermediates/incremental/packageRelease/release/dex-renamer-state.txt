@@ -1,0 +1,7 @@
+#Mon May 07 13:17:45 IST 2018
+base.0=E\:\\Firebase\\instaDownloder\\VideoDownloader-Android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Firebase\\instaDownloder\\VideoDownloader-Android\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes2.dex
+base.1=E\:\\Firebase\\instaDownloder\\VideoDownloader-Android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+file.0=E\:\\Firebase\\instaDownloder\\VideoDownloader-Android\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex

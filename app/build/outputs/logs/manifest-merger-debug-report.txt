@@ -1,0 +1,791 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:2:1-72:12
+MERGED from [com.io.tools.android.ramiloif.folderchooser:folderchooser-dialog:1.0.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\folderchooser-dialog-1.0.6.aar\2c2e3c0bdd6fc684de84dba875b7413c\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-10.2.6.aar\23dea78057578883596a67dc3427337d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.6.aar\a974044ebf8217055f8669458f4056b2\AndroidManifest.xml:16:1-18:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\adac90b74d00f1398631dcb8822f1a4d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.6.aar\39b1d7d5a23f623e38adcccbca3d3780\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\13bb1e327d43aee17506e53356f79fff\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\d4b3c67d00c5714f634980c7f2f05db6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\79c3838be6fff74ea62ef3f6ad9fc435\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:16:1-27:12
+MERGED from [com.jakewharton:butterknife:8.7.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\butterknife-8.7.0.aar\6a4d93c8909ba21c4410d37493bca7c4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05f9b9cb51e53daf69c6e9ece5507c2b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\de16196c2f52ddf6398cb9a49c5f2559\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\3eca02673ce50b36cf8f9445a328f2ac\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\79d1c3feae2e175ec4ff7040cbe40627\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\bf26c0ce338a5efc650a4817bbb55262\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4c06f65ac220df516087c6ed42ef05e4\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-10.2.6.aar\b9a7ff88a6c62df202fe15ed7d129e48\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.6.aar\26eb68c4d0eda7282f366273ebac9b7a\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-10.2.6.aar\e6d0e6ddfe0970f6d9d301a5adc29a96\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.6.aar\61666b8993348b8b94048fd022bb8538\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.6.aar\6b188f70e6cd65b71b3b021af276b7d6\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\4830d4bf11ae0d2cfb00149566cb22bf\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.6.aar\92896ff11bd4f808dc5fb0612d5e97fb\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.6.aar\6aaa9b8075805566ed8f41396c119b89\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\3eb57d6f17f7af848f5f7fd55e3810ea\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.6.aar\9557aef71b7131a18f0fbc50a70a9018\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.6.aar\7a20607fdef7a9612eb79e955d521d95\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.6.aar\b46990d5dcf71348dfe4b9a220743615\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.6.aar\0dc196287aaa6855df68457cb3209d19\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.6.aar\7d050b302ed601414c732144b479aae0\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\d20d7f14fb2345791b7eb55810c652b5\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.6.aar\aeb772fa4095a2cce9c93739366928a5\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\b9d10898d5493991fc67f645db8ff4eb\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-wallet-10.2.6.aar\8c00eff355963b38e3817c3c9470b157\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.6.aar\8fc2ecfe23d261f33e802fdd7d8794a2\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\a1f74ae5d5fc6912faf568f317618d47\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-10.2.6.aar\eab5ee2d54d054e4d56f7ba968d72ba5\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.6.aar\86f7aa7f8f2e3e4f3528fe752a7eb927\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.6.aar\45072d2d806ed559120304f3d6ade44e\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\0f3a71ff4159bc002b407f15727f8c3f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.6.aar\aed6ba8388eeff1d5efcfb42678b1343\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\7ae44eb9a6ab71b46161879ed52f8753\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.6.aar\c733c8eeecdf354d260df9e2444a7f0a\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.6.aar\3e64d7db9976bacd3fcc6b2489b2e429\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.6.aar\e1d0b0ebe56a50f0a2babde213fda703\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.6.aar\0017bade46150a53535436fcf315748b\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\039c1bffd9160859795a582700c736c1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\d3089915df50734ec402a6fc51dd5f81\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.6.aar\63be5a447509ca0a701e073aec170a54\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\9f8ffed04f7309e6e6d6000bc6d84cbf\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30e4520f0b406cd8cddcd6fcdde7ac6d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b94f5f573a5e643cc3b172a5c3c26a88\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\448c13c8a4a4aa003178bfc8ad4fc42e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\397a7dc3963906d5ac65b282357b7b73\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fd2a2f07e78e30f6399ac281d0924572\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c6973c3630889d4f61f975049d7bf250\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4f946f0e0b7dc48a83f6a5497e8a81b5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\986ce9b13806e5ce76dcf2de2ba7c771\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:4:5-59
+		INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:7:5-66
+MERGED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\4830d4bf11ae0d2cfb00149566cb22bf\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\4830d4bf11ae0d2cfb00149566cb22bf\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\b9d10898d5493991fc67f645db8ff4eb\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\b9d10898d5493991fc67f645db8ff4eb\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\a1f74ae5d5fc6912faf568f317618d47\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\a1f74ae5d5fc6912faf568f317618d47\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\0f3a71ff4159bc002b407f15727f8c3f\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\0f3a71ff4159bc002b407f15727f8c3f\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:13:5-70:19
+MERGED from [com.io.tools.android.ramiloif.folderchooser:folderchooser-dialog:1.0.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\folderchooser-dialog-1.0.6.aar\2c2e3c0bdd6fc684de84dba875b7413c\AndroidManifest.xml:11:5-15:19
+MERGED from [com.io.tools.android.ramiloif.folderchooser:folderchooser-dialog:1.0.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\folderchooser-dialog-1.0.6.aar\2c2e3c0bdd6fc684de84dba875b7413c\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-10.2.6.aar\23dea78057578883596a67dc3427337d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-10.2.6.aar\23dea78057578883596a67dc3427337d\AndroidManifest.xml:5:5-20
+MERGED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:14:5-18:19
+MERGED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\adac90b74d00f1398631dcb8822f1a4d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\adac90b74d00f1398631dcb8822f1a4d\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.6.aar\39b1d7d5a23f623e38adcccbca3d3780\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.6.aar\39b1d7d5a23f623e38adcccbca3d3780\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\13bb1e327d43aee17506e53356f79fff\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\13bb1e327d43aee17506e53356f79fff\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\d4b3c67d00c5714f634980c7f2f05db6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\d4b3c67d00c5714f634980c7f2f05db6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\79c3838be6fff74ea62ef3f6ad9fc435\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\79c3838be6fff74ea62ef3f6ad9fc435\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:26:5-19
+MERGED from [com.android.support:transition:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05f9b9cb51e53daf69c6e9ece5507c2b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05f9b9cb51e53daf69c6e9ece5507c2b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\79d1c3feae2e175ec4ff7040cbe40627\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\79d1c3feae2e175ec4ff7040cbe40627\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\bf26c0ce338a5efc650a4817bbb55262\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\bf26c0ce338a5efc650a4817bbb55262\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.6.aar\26eb68c4d0eda7282f366273ebac9b7a\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.6.aar\26eb68c4d0eda7282f366273ebac9b7a\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.6.aar\61666b8993348b8b94048fd022bb8538\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.6.aar\61666b8993348b8b94048fd022bb8538\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.6.aar\6b188f70e6cd65b71b3b021af276b7d6\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.6.aar\6b188f70e6cd65b71b3b021af276b7d6\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\4830d4bf11ae0d2cfb00149566cb22bf\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\4830d4bf11ae0d2cfb00149566cb22bf\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.6.aar\92896ff11bd4f808dc5fb0612d5e97fb\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.6.aar\92896ff11bd4f808dc5fb0612d5e97fb\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.6.aar\6aaa9b8075805566ed8f41396c119b89\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.6.aar\6aaa9b8075805566ed8f41396c119b89\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\3eb57d6f17f7af848f5f7fd55e3810ea\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\3eb57d6f17f7af848f5f7fd55e3810ea\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.6.aar\7d050b302ed601414c732144b479aae0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.6.aar\7d050b302ed601414c732144b479aae0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\d20d7f14fb2345791b7eb55810c652b5\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\d20d7f14fb2345791b7eb55810c652b5\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.6.aar\aeb772fa4095a2cce9c93739366928a5\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.6.aar\aeb772fa4095a2cce9c93739366928a5\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\b9d10898d5493991fc67f645db8ff4eb\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\b9d10898d5493991fc67f645db8ff4eb\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.6.aar\8fc2ecfe23d261f33e802fdd7d8794a2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.6.aar\8fc2ecfe23d261f33e802fdd7d8794a2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\a1f74ae5d5fc6912faf568f317618d47\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\a1f74ae5d5fc6912faf568f317618d47\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.6.aar\86f7aa7f8f2e3e4f3528fe752a7eb927\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.6.aar\86f7aa7f8f2e3e4f3528fe752a7eb927\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.6.aar\45072d2d806ed559120304f3d6ade44e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.6.aar\45072d2d806ed559120304f3d6ade44e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\0f3a71ff4159bc002b407f15727f8c3f\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\0f3a71ff4159bc002b407f15727f8c3f\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.6.aar\aed6ba8388eeff1d5efcfb42678b1343\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.6.aar\aed6ba8388eeff1d5efcfb42678b1343\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\7ae44eb9a6ab71b46161879ed52f8753\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\7ae44eb9a6ab71b46161879ed52f8753\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.6.aar\c733c8eeecdf354d260df9e2444a7f0a\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.6.aar\c733c8eeecdf354d260df9e2444a7f0a\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.6.aar\3e64d7db9976bacd3fcc6b2489b2e429\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.6.aar\3e64d7db9976bacd3fcc6b2489b2e429\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.6.aar\e1d0b0ebe56a50f0a2babde213fda703\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.6.aar\e1d0b0ebe56a50f0a2babde213fda703\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.6.aar\0017bade46150a53535436fcf315748b\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.6.aar\0017bade46150a53535436fcf315748b\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\039c1bffd9160859795a582700c736c1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\039c1bffd9160859795a582700c736c1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\d3089915df50734ec402a6fc51dd5f81\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\d3089915df50734ec402a6fc51dd5f81\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.6.aar\63be5a447509ca0a701e073aec170a54\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.6.aar\63be5a447509ca0a701e073aec170a54\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\9f8ffed04f7309e6e6d6000bc6d84cbf\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\9f8ffed04f7309e6e6d6000bc6d84cbf\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30e4520f0b406cd8cddcd6fcdde7ac6d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30e4520f0b406cd8cddcd6fcdde7ac6d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b94f5f573a5e643cc3b172a5c3c26a88\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b94f5f573a5e643cc3b172a5c3c26a88\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\448c13c8a4a4aa003178bfc8ad4fc42e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\448c13c8a4a4aa003178bfc8ad4fc42e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\397a7dc3963906d5ac65b282357b7b73\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\397a7dc3963906d5ac65b282357b7b73\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fd2a2f07e78e30f6399ac281d0924572\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fd2a2f07e78e30f6399ac281d0924572\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c6973c3630889d4f61f975049d7bf250\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c6973c3630889d4f61f975049d7bf250\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4f946f0e0b7dc48a83f6a5497e8a81b5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4f946f0e0b7dc48a83f6a5497e8a81b5\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:17:9-46
+	android:icon
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:20:9-40
+	tools:replace
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:21:9-38
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:19:9-82
+meta-data#applovin.sdk.key
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:24:9-25:119
+	android:value
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:25:13-115
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:24:20-51
+activity#downloader.video.technodots.videodownloaders.IntroActivity
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:27:9-37:20
+	android:label
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:28:13-86
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:31:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:34:27-74
+activity#downloader.video.technodots.videodownloaders.BookmarkActivity
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:40:13-45
+	android:theme
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:39:13-89
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:43:13-45:93
+	android:value
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:45:17-90
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:44:17-63
+activity#downloader.video.technodots.videodownloaders.SettingActivity
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:47:9-53:20
+	android:label
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:49:13-37
+	android:theme
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:50:13-44
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:48:13-88
+activity#downloader.video.technodots.videodownloaders.ContactUs
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:55:9-100
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:55:19-88
+activity#downloader.video.technodots.videodownloaders.MainActivity
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:57:9-63:20
+	android:label
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:59:13-45
+	android:theme
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:60:13-56
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:57:19-91
+activity#com.applovin.adview.AppLovinInterstitialActivity
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:65:9-85
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:65:19-82
+activity#com.applovin.adview.AppLovinConfirmationActivity
+ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:66:9-85
+	android:name
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml:66:19-82
+uses-sdk
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+MERGED from [com.io.tools.android.ramiloif.folderchooser:folderchooser-dialog:1.0.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\folderchooser-dialog-1.0.6.aar\2c2e3c0bdd6fc684de84dba875b7413c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.io.tools.android.ramiloif.folderchooser:folderchooser-dialog:1.0.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\folderchooser-dialog-1.0.6.aar\2c2e3c0bdd6fc684de84dba875b7413c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-10.2.6.aar\23dea78057578883596a67dc3427337d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-10.2.6.aar\23dea78057578883596a67dc3427337d\AndroidManifest.xml:4:5-43
+MERGED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.6.aar\a974044ebf8217055f8669458f4056b2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.6.aar\a974044ebf8217055f8669458f4056b2\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\adac90b74d00f1398631dcb8822f1a4d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\adac90b74d00f1398631dcb8822f1a4d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.6.aar\39b1d7d5a23f623e38adcccbca3d3780\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-10.2.6.aar\39b1d7d5a23f623e38adcccbca3d3780\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\13bb1e327d43aee17506e53356f79fff\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\13bb1e327d43aee17506e53356f79fff\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\d4b3c67d00c5714f634980c7f2f05db6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\d4b3c67d00c5714f634980c7f2f05db6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\79c3838be6fff74ea62ef3f6ad9fc435\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\79c3838be6fff74ea62ef3f6ad9fc435\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:17:5-43
+MERGED from [com.jakewharton:butterknife:8.7.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\butterknife-8.7.0.aar\6a4d93c8909ba21c4410d37493bca7c4\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.7.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\butterknife-8.7.0.aar\6a4d93c8909ba21c4410d37493bca7c4\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05f9b9cb51e53daf69c6e9ece5507c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05f9b9cb51e53daf69c6e9ece5507c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\de16196c2f52ddf6398cb9a49c5f2559\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\de16196c2f52ddf6398cb9a49c5f2559\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\3eca02673ce50b36cf8f9445a328f2ac\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\3eca02673ce50b36cf8f9445a328f2ac\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\79d1c3feae2e175ec4ff7040cbe40627\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\79d1c3feae2e175ec4ff7040cbe40627\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\bf26c0ce338a5efc650a4817bbb55262\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\bf26c0ce338a5efc650a4817bbb55262\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4c06f65ac220df516087c6ed42ef05e4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4c06f65ac220df516087c6ed42ef05e4\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-10.2.6.aar\b9a7ff88a6c62df202fe15ed7d129e48\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-10.2.6.aar\b9a7ff88a6c62df202fe15ed7d129e48\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.6.aar\26eb68c4d0eda7282f366273ebac9b7a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-10.2.6.aar\26eb68c4d0eda7282f366273ebac9b7a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-10.2.6.aar\e6d0e6ddfe0970f6d9d301a5adc29a96\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-10.2.6.aar\e6d0e6ddfe0970f6d9d301a5adc29a96\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.6.aar\61666b8993348b8b94048fd022bb8538\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-config-10.2.6.aar\61666b8993348b8b94048fd022bb8538\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.6.aar\6b188f70e6cd65b71b3b021af276b7d6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-awareness-10.2.6.aar\6b188f70e6cd65b71b3b021af276b7d6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\4830d4bf11ae0d2cfb00149566cb22bf\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-crash-10.2.6.aar\4830d4bf11ae0d2cfb00149566cb22bf\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.6.aar\92896ff11bd4f808dc5fb0612d5e97fb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-games-10.2.6.aar\92896ff11bd4f808dc5fb0612d5e97fb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.6.aar\6aaa9b8075805566ed8f41396c119b89\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-drive-10.2.6.aar\6aaa9b8075805566ed8f41396c119b89\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\3eb57d6f17f7af848f5f7fd55e3810ea\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-auth-10.2.6.aar\3eb57d6f17f7af848f5f7fd55e3810ea\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.6.aar\9557aef71b7131a18f0fbc50a70a9018\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-database-10.2.6.aar\9557aef71b7131a18f0fbc50a70a9018\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.6.aar\7a20607fdef7a9612eb79e955d521d95\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-10.2.6.aar\7a20607fdef7a9612eb79e955d521d95\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.6.aar\b46990d5dcf71348dfe4b9a220743615\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-storage-10.2.6.aar\b46990d5dcf71348dfe4b9a220743615\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.6.aar\0dc196287aaa6855df68457cb3209d19\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-10.2.6.aar\0dc196287aaa6855df68457cb3209d19\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.6.aar\7d050b302ed601414c732144b479aae0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-10.2.6.aar\7d050b302ed601414c732144b479aae0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\d20d7f14fb2345791b7eb55810c652b5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\d20d7f14fb2345791b7eb55810c652b5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.6.aar\aeb772fa4095a2cce9c93739366928a5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-fitness-10.2.6.aar\aeb772fa4095a2cce9c93739366928a5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\b9d10898d5493991fc67f645db8ff4eb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\b9d10898d5493991fc67f645db8ff4eb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-wallet-10.2.6.aar\8c00eff355963b38e3817c3c9470b157\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-wallet-10.2.6.aar\8c00eff355963b38e3817c3c9470b157\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.6.aar\8fc2ecfe23d261f33e802fdd7d8794a2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-identity-10.2.6.aar\8fc2ecfe23d261f33e802fdd7d8794a2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\a1f74ae5d5fc6912faf568f317618d47\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\a1f74ae5d5fc6912faf568f317618d47\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-10.2.6.aar\eab5ee2d54d054e4d56f7ba968d72ba5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-10.2.6.aar\eab5ee2d54d054e4d56f7ba968d72ba5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.6.aar\86f7aa7f8f2e3e4f3528fe752a7eb927\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.6.aar\86f7aa7f8f2e3e4f3528fe752a7eb927\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.6.aar\45072d2d806ed559120304f3d6ade44e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-places-10.2.6.aar\45072d2d806ed559120304f3d6ade44e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\0f3a71ff4159bc002b407f15727f8c3f\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-nearby-10.2.6.aar\0f3a71ff4159bc002b407f15727f8c3f\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.6.aar\aed6ba8388eeff1d5efcfb42678b1343\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-panorama-10.2.6.aar\aed6ba8388eeff1d5efcfb42678b1343\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\7ae44eb9a6ab71b46161879ed52f8753\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\7ae44eb9a6ab71b46161879ed52f8753\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.6.aar\c733c8eeecdf354d260df9e2444a7f0a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-10.2.6.aar\c733c8eeecdf354d260df9e2444a7f0a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.6.aar\3e64d7db9976bacd3fcc6b2489b2e429\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.6.aar\3e64d7db9976bacd3fcc6b2489b2e429\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.6.aar\e1d0b0ebe56a50f0a2babde213fda703\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-wearable-10.2.6.aar\e1d0b0ebe56a50f0a2babde213fda703\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.6.aar\0017bade46150a53535436fcf315748b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.6.aar\0017bade46150a53535436fcf315748b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\039c1bffd9160859795a582700c736c1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\039c1bffd9160859795a582700c736c1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\d3089915df50734ec402a6fc51dd5f81\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\d3089915df50734ec402a6fc51dd5f81\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.6.aar\63be5a447509ca0a701e073aec170a54\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.6.aar\63be5a447509ca0a701e073aec170a54\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\9f8ffed04f7309e6e6d6000bc6d84cbf\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\9f8ffed04f7309e6e6d6000bc6d84cbf\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30e4520f0b406cd8cddcd6fcdde7ac6d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30e4520f0b406cd8cddcd6fcdde7ac6d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b94f5f573a5e643cc3b172a5c3c26a88\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b94f5f573a5e643cc3b172a5c3c26a88\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\448c13c8a4a4aa003178bfc8ad4fc42e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\448c13c8a4a4aa003178bfc8ad4fc42e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\397a7dc3963906d5ac65b282357b7b73\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\397a7dc3963906d5ac65b282357b7b73\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fd2a2f07e78e30f6399ac281d0924572\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fd2a2f07e78e30f6399ac281d0924572\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c6973c3630889d4f61f975049d7bf250\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c6973c3630889d4f61f975049d7bf250\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4f946f0e0b7dc48a83f6a5497e8a81b5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4f946f0e0b7dc48a83f6a5497e8a81b5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\986ce9b13806e5ce76dcf2de2ba7c771\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\986ce9b13806e5ce76dcf2de2ba7c771\AndroidManifest.xml:20:5-43
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\adac90b74d00f1398631dcb8822f1a4d\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Firebase\instaDownloder\VideoDownloader-Android\app\src\main\AndroidManifest.xml
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:15:9-17:77
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:4.28.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-4.28.1.aar\69f5382f6dc94a61ac2073e4ef0f5253\AndroidManifest.xml:16:13-68
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\adac90b74d00f1398631dcb8822f1a4d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\d4b3c67d00c5714f634980c7f2f05db6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\d4b3c67d00c5714f634980c7f2f05db6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05f9b9cb51e53daf69c6e9ece5507c2b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05f9b9cb51e53daf69c6e9ece5507c2b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\79d1c3feae2e175ec4ff7040cbe40627\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\79d1c3feae2e175ec4ff7040cbe40627\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\bf26c0ce338a5efc650a4817bbb55262\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\bf26c0ce338a5efc650a4817bbb55262\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4c06f65ac220df516087c6ed42ef05e4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4c06f65ac220df516087c6ed42ef05e4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30e4520f0b406cd8cddcd6fcdde7ac6d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30e4520f0b406cd8cddcd6fcdde7ac6d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b94f5f573a5e643cc3b172a5c3c26a88\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b94f5f573a5e643cc3b172a5c3c26a88\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\448c13c8a4a4aa003178bfc8ad4fc42e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\448c13c8a4a4aa003178bfc8ad4fc42e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fd2a2f07e78e30f6399ac281d0924572\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fd2a2f07e78e30f6399ac281d0924572\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c6973c3630889d4f61f975049d7bf250\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c6973c3630889d4f61f975049d7bf250\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4f946f0e0b7dc48a83f6a5497e8a81b5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4f946f0e0b7dc48a83f6a5497e8a81b5\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\adac90b74d00f1398631dcb8822f1a4d\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\adac90b74d00f1398631dcb8822f1a4d\AndroidManifest.xml:26:9-47
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-10.2.6.aar\4037a468fc5a2ded9439296e72b5e351\AndroidManifest.xml:7:18-90
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-10.2.6.aar\c4d42b566bbf9d7bcc00eeeeaf320a1a\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-analytics-10.2.6.aar\d06633e469eb6d2180f372d85132b2b1\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-10.2.6.aar\c5eaa3ecbd175be81d3e4585902a1960\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-auth-10.2.6.aar\520d5ba61b10d5b3ca1eca7bfa8aca0a\AndroidManifest.xml:24:18-63
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-messaging-10.2.6.aar\0fc59c3689a1ded45510f8c386791ae2\AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-10.2.6.aar\43e3b6b38f76a9f66c2060dda8a766e2\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-10.2.6.aar\ab1bf0b18bc4239e45ec9010454684b7\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-analytics-10.2.6.aar\bc495ef62bc4470f95eabd268a7f4b3a\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:22:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\b9d10898d5493991fc67f645db8ff4eb\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-gcm-10.2.6.aar\b9d10898d5493991fc67f645db8ff4eb\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\a1f74ae5d5fc6912faf568f317618d47\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-iid-10.2.6.aar\a1f74ae5d5fc6912faf568f317618d47\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:24:17-71
+permission#com.technodots.videodownloaders.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:26:22-76
+uses-permission#com.technodots.videodownloaders.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:31:13-34:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.technodots.videodownloaders
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:33:27-58
+category#com.technodots.videodownloaders
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-iid-10.2.6.aar\fd5041014a565a90986183e492708f1a\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\d20d7f14fb2345791b7eb55810c652b5\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\d20d7f14fb2345791b7eb55810c652b5\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\d20d7f14fb2345791b7eb55810c652b5\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\d20d7f14fb2345791b7eb55810c652b5\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\firebase-common-10.2.6.aar\d20d7f14fb2345791b7eb55810c652b5\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.6.aar\4176a69165d0f72e12f328cbb80d4dc6\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\039c1bffd9160859795a582700c736c1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\039c1bffd9160859795a582700c736c1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\039c1bffd9160859795a582700c736c1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\039c1bffd9160859795a582700c736c1\AndroidManifest.xml:19:19-85
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.6.aar\ebc01437d9cc17c2206225c50bdee412\AndroidManifest.xml:26:19-91
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\9f8ffed04f7309e6e6d6000bc6d84cbf\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\9f8ffed04f7309e6e6d6000bc6d84cbf\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\VIKAS\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\9f8ffed04f7309e6e6d6000bc6d84cbf\AndroidManifest.xml:20:20-65

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#78909C</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#f44336</color>
+
+    <color name="text_color">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="nav_item_state_list">#ffffff</color>
+
+
+    <color name="bottom_nav_background">#E0E0E0</color>
+    <color name="bottom_nav_text">#424242</color>
+
+    <!---dots active colors -->
+    <color name="dot_active">#000000</color>
+    <!--dots inactive colors -->
+    <color name="dot_inactive">#cccccc</color>
+
+
+</resources>

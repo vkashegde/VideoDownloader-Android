@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/nav_downloads"
+            android:icon="@drawable/ic_get_app_black_24dp"
+            android:title="Downloads" />
+        <item
+            android:id="@+id/nav_bookmarks"
+            android:icon="@drawable/ic_bookmark_black_24dp"
+            android:title="Bookmarks" />
+        <item
+            android:id="@+id/nav_get_media"
+            android:icon="@drawable/ic_dns_black_24dp"
+            android:title="Get Media from URL" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Settings" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Share" />
+
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Rate Us" />
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Feedback" />
+</menu>

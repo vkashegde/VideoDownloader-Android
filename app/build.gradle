@@ -1,0 +1,65 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.jakewharton.butterknife'
+
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '26.0.2'
+    defaultConfig {
+        applicationId "com.technodots.videodownloaders"
+        minSdkVersion 17
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    useLibrary 'org.apache.http.legacy'
+
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+        annotationProcessor 'com.jakewharton:butterknife-compiler:8.7.0'
+        implementation 'com.jakewharton:butterknife:8.7.0'
+        compile 'org.projectlombok:lombok:1.16.14'
+        annotationProcessor "org.projectlombok:lombok:1.16.14"
+            })
+
+    compile 'com.google.android.gms:play-services-ads:10.2.4'
+    compile 'com.google.android.gms:play-services:10.2.6'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+
+    // glide
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+
+    compile 'com.squareup.okio:okio:1.11.0'
+
+
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.google.android.gms:play-services-analytics:8.4.0'
+
+    compile 'com.facebook.android:audience-network-sdk:4.+'
+    //compile 'com.android.databinding:compiler:2.3.0'
+
+    compile 'com.io.tools.android.ramiloif.folderchooser:folderchooser-dialog:1.0.6'
+
+   compile files('libs/applovin-sdk-7.1.0.jar')
+
+    compile 'com.android.support:support-annotations:27.1.1'
+    //compile 'com.google.android.gms:play-services-ads:15.0.0'
+
+
+}

@@ -1,0 +1,128 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Firebase\\instaDownloder\\VideoDownloader-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\VIKAS\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\039c1bffd9160859795a582700c736c1\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,383,570,689,792,1013,1135,1269,1486,1590,1792,1915,2119,2303,2393,2477",
+                        "endColumns": "99,186,118,102,220,121,133,216,103,201,122,203,183,89,83,101",
+                        "endOffsets": "382,569,688,791,1012,1134,1268,1485,1589,1791,1914,2118,2302,2392,2476,2578"
+                    },
+                    "to": {
+                        "startLines": "42,43,44,45,46,47,48,50,51,52,53,54,55,56,57,58",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4170,4274,4461,4584,4691,4912,5038,5384,5601,5709,5911,6038,6242,6430,6524,6612",
+                        "endColumns": "103,186,122,106,220,125,137,216,107,201,126,203,187,93,87,105",
+                        "endOffsets": "4269,4456,4579,4686,4907,5033,5171,5596,5704,5906,6033,6237,6425,6519,6607,6713"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\VIKAS\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\4037a468fc5a2ded9439296e72b5e351\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "298,378,468,559,668,745,908,1033,1150,1269,1373,1471,1546,1633,1723,1827,1900,1971,2040,2116,2204,2295,2392,2479,2564,2635,2738,2831,2926,3041,3184,3297,3420,3512,3604,3705",
+                        "endColumns": "79,89,90,108,76,162,124,116,118,103,97,74,86,89,103,72,70,68,75,87,90,96,86,84,70,102,92,94,114,142,112,122,91,91,100,74",
+                        "endOffsets": "377,467,558,667,744,907,1032,1149,1268,1372,1470,1545,1632,1722,1826,1899,1970,2039,2115,2203,2294,2391,2478,2563,2634,2737,2830,2925,3040,3183,3296,3419,3511,3603,3704,3779"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "179,263,357,452,565,646,813,942,1063,1186,1294,1396,1475,1566,1660,1768,2214,2289,2362,2442,2534,2629,2730,2821,2910,2985,3092,3189,3288,3407,3550,3667,3794,3890,3986,4091",
+                        "endColumns": "83,93,94,112,80,166,128,120,122,107,101,78,90,93,107,76,74,72,79,91,94,100,90,88,74,106,96,98,118,142,116,126,95,95,104,78",
+                        "endOffsets": "258,352,447,560,641,808,937,1058,1181,1289,1391,1470,1561,1655,1763,1840,2284,2357,2437,2529,2624,2725,2816,2905,2980,3087,3184,3283,3402,3545,3662,3789,3885,3981,4086,4165"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\VIKAS\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-10.2.6.aar\\39b1d7d5a23f623e38adcccbca3d3780\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "288,424,563",
+                        "endColumns": "135,138,89",
+                        "endOffsets": "423,562,652"
+                    },
+                    "to": {
+                        "startLines": "19,20,21",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1845,1981,2120",
+                        "endColumns": "135,138,93",
+                        "endOffsets": "1976,2115,2209"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\VIKAS\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-10.2.6.aar\\45072d2d806ed559120304f3d6ade44e\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "233,336",
+                        "endColumns": "102,92",
+                        "endOffsets": "335,428"
+                    },
+                    "to": {
+                        "startLines": "66,67",
+                        "startColumns": "4,4",
+                        "startOffsets": "7448,7555",
+                        "endColumns": "106,96",
+                        "endOffsets": "7550,7647"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\VIKAS\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-10.2.6.aar\\8c00eff355963b38e3817c3c9470b157\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "240",
+                        "endColumns": "101",
+                        "endOffsets": "341"
+                    },
+                    "to": {
+                        "startLines": "70",
+                        "startColumns": "4",
+                        "startOffsets": "7884",
+                        "endColumns": "105",
+                        "endOffsets": "7985"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\VIKAS\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.2.6.aar\\9f8ffed04f7309e6e6d6000bc6d84cbf\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "207",
+                        "endOffsets": "492"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "5176",
+                        "endColumns": "207",
+                        "endOffsets": "5379"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\VIKAS\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-10.2.6.aar\\a974044ebf8217055f8669458f4056b2\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "237,307,442,551,650,754,842,940,1009,1144",
+                        "endColumns": "69,134,108,98,103,87,97,68,134,88",
+                        "endOffsets": "306,441,550,649,753,841,939,1008,1143,1232"
+                    },
+                    "to": {
+                        "startLines": "2,59,60,61,62,63,64,65,68,69",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,6718,6857,6970,7073,7181,7273,7375,7652,7791",
+                        "endColumns": "73,138,112,102,107,91,101,72,138,92",
+                        "endOffsets": "174,6852,6965,7068,7176,7268,7370,7443,7786,7879"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+# Referenced at E:\Firebase\instaDownloder\VideoDownloader-Android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:31
+-keep class downloader.video.technodots.videodownloaders.DownloaderApp { <init>(...); }
+
